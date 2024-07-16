@@ -1,0 +1,38 @@
+BURGEREK
+Sajtburger 449 520 MARHAHUS
+Csirkeburger 421 550 CSIRKEHUS
+Spicyburger 398 510 SERTESHUS
+Bigmac 983 1050 MARHAHUS
+Pinkyburger 650 960 SERTESHUS
+Countryburger 750 700 CSIRKEHUS
+//////////////////////////
+UDITOK
+Cola 245 350
+ColaZero 0 320
+Fanta 240 340
+FantaZero 0 300
+Zoldtea 200 340
+Sprite 300 320
+//////////////////////////
+SNACKS
+Edesburgonya 350 410
+Sultkrumpli 390 450
+McNuggets 640 560
+Shake 421 770
+Almaspite 320 400
+//////////////////////////
+(NÉV/KALÓRIA/ÁR)
+
+Szorzók:
+KOZEPES: 15 (%)
+NAGY: 20 (%)
+
+
+
+(Megjegyzés: a választható méretű termékek áraira és kalóriatartalmára a következőek vonatkoznak.)
+KICSI->KALÓRIA, ÁR
+KÖZEPES->KALÓRIA*1.12, ÁR*1.12
+NAGY->KALÓRIA*1.20, ÁR*1.20
+
+AZ ÁRAK FORINTBAN ÉRTENDŐEK, ÉS TARTALMAZZÁK AZ ÁFÁT.
+A MENÜBEN VÁSÁRLÓK 15%-OS KEDVEZMÉNYBEN RÉSZESÜLNEK.

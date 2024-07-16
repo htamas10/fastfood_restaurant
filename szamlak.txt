@@ -1,0 +1,276 @@
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Csirkeburger // 550 Ft // 421 kCal // CSIRKEHÚS // CSÍPŐS
+ÜDÍTŐ: 
+Sprite // 384 Ft // 300 kCal // NAGY // JÉGGEL
+SNACK: 
+Edesburgonya // 492 Ft // 350 kCal // NAGY
+
+Kalóriatartalom: 1071 kCal
+Ár (áfát tartalmazza): 1426 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // CSÍPŐS
+ÜDÍTŐ: 
+Cola // 402 Ft // 245 kCal // KÖZEPES // JÉG NÉLKÜL
+SNACK: 
+Edesburgonya // 471 Ft // 350 kCal // KÖZEPES
+
+Kalóriatartalom: 993 kCal
+Ár (áfát tartalmazza): 1176 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Shake // 924 Ft // 421 kCal // NAGY
+
+Kalóriatartalom: 1110 kCal
+Ár (áfát tartalmazza): 1574 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 2
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+FantaZero // 345 Ft // 0 kCal // KÖZEPES // JÉGGEL
+SNACK: 
+McNuggets // 672 Ft // 640 kCal // NAGY
+
+Kalóriatartalom: 1038 kCal
+Ár (áfát tartalmazza): 1298 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Csirkeburger // 550 Ft // 421 kCal // CSIRKEHÚS // CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 340 Ft // 240 kCal // KICSI // JÉG NÉLKÜL
+SNACK: 
+McNuggets // 644 Ft // 640 kCal // KÖZEPES
+
+Kalóriatartalom: 1301 kCal
+Ár (áfát tartalmazza): 1304 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 2
+BURGER: 
+Csirkeburger // 550 Ft // 421 kCal // CSIRKEHÚS // CSÍPŐS
+BURGER: 
+Csirkeburger // 550 Ft // 421 kCal // CSIRKEHÚS // CSÍPŐS
+BURGER: 
+Csirkeburger // 550 Ft // 421 kCal // CSIRKEHÚS // CSÍPŐS
+BURGER: 
+Pinkyburger // 960 Ft // 650 kCal // SERTÉSHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+McNuggets // 741 Ft // 640 kCal // KÖZEPES
+
+Kalóriatartalom: 2793 kCal
+Ár (áfát tartalmazza): 3759 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // CSÍPŐS
+
+Kalóriatartalom: 21225 kCal
+Ár (áfát tartalmazza): 23520 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // CSÍPŐS
+BURGER: 
+Pinkyburger // 960 Ft // 650 kCal // SERTÉSHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Almaspite // 576 Ft // 320 kCal // NAGY
+SNACK: 
+Almaspite // 576 Ft // 320 kCal // NAGY
+SNACK: 
+Shake // 924 Ft // 421 kCal // NAGY
+
+Kalóriatartalom: 2349 kCal
+Ár (áfát tartalmazza): 3954 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 2
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // CSÍPŐS
+ÜDÍTŐ: 
+ColaZero // 384 Ft // 0 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Edesburgonya // 471 Ft // 350 kCal // KÖZEPES
+
+Kalóriatartalom: 748 kCal
+Ár (áfát tartalmazza): 1160 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Cola // 420 Ft // 245 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Shake // 924 Ft // 421 kCal // NAGY
+
+Kalóriatartalom: 1064 kCal
+Ár (áfát tartalmazza): 1576 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉGGEL
+SNACK: 
+Sultkrumpli // 540 Ft // 390 kCal // NAGY
+
+Kalóriatartalom: 1028 kCal
+Ár (áfát tartalmazza): 1239 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Edesburgonya // 492 Ft // 350 kCal // NAGY
+
+Kalóriatartalom: 988 kCal
+Ár (áfát tartalmazza): 1199 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Spicyburger // 510 Ft // 398 kCal // SERTÉSHÚS // NEM CSÍPŐS
+
+Kalóriatartalom: 398 kCal
+Ár (áfát tartalmazza): 510 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Cola // 350 Ft // 245 kCal // KICSI // JÉG NÉLKÜL
+SNACK: 
+Sultkrumpli // 540 Ft // 390 kCal // NAGY
+
+Kalóriatartalom: 1084 kCal
+Ár (áfát tartalmazza): 1199 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Sajtburger // 520 Ft // 449 kCal // MARHAHÚS // NEM CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 340 Ft // 240 kCal // KICSI // JÉG NÉLKÜL
+SNACK: 
+McNuggets // 644 Ft // 640 kCal // KÖZEPES
+
+Kalóriatartalom: 1329 kCal
+Ár (áfát tartalmazza): 1278 Ft
+///////////////////////////////////////////////
+
+///////////////////////////////////////////////
+Rendelés azonosítója: 1
+BURGER: 
+Bigmac // 1050 Ft // 983 kCal // MARHAHÚS // CSÍPŐS
+ÜDÍTŐ: 
+Fanta // 408 Ft // 240 kCal // NAGY // JÉG NÉLKÜL
+SNACK: 
+Edesburgonya // 471 Ft // 350 kCal // KÖZEPES
+
+Kalóriatartalom: 1573 kCal
+Ár (áfát tartalmazza): 1640 Ft
+///////////////////////////////////////////////
+
